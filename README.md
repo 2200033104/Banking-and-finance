@@ -3,6 +3,7 @@ The Aim of the SDP in banking and finance management system is to bring about co
 
  Instructions
 
-Install the Requirements: pip install -r requirements.txt
+Install the Requirements: 
+pip install -r requirements.txt
 python manage.py migrate
 And finally, run the application: python manage.py runserver
